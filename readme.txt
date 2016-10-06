@@ -1,3 +1,11 @@
+About the tech stack:
+
+	Ruby
+	watir-webdriver
+	RSpec
+	Taza
+	Cucumber
+
 Pre-requisites:
 
     - Ruby
